@@ -1,7 +1,7 @@
 {
   "name": "budget-tracker",
   "version": "1.0.0",
-  "description": "",
+  "description": "User's can add expenses and deposits to their budget with or without a connection.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,16 +12,17 @@
     "type": "git",
     "url": "git+https://github.com/achampigny4/budget-tracker"
   },
-  "author": "",
+  "author": "Alissa",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/coding-boot-camp/unit18hw/issues"
+    "url": "https://github.com/achampigny4/budget-tracker/issues"
   },
-  "homepage": "https://github.com/coding-boot-camp/unit18hw#readme",
+  "homepage": "https://github.com/achampigny4/budget-tracker/blob/main/README.md",
   "dependencies": {
     "compression": "^1.7.4",
     "express": "^4.17.1",
     "lite-server": "^2.5.3",
+    "mongodb": "^3.6.2",
     "mongoose": "^5.5.15",
     "morgan": "^1.9.1"
   }
