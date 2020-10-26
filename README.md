@@ -22,9 +22,9 @@ User's can add expenses and deposits to their budget with or without a connectio
 
 ## Application Link
 
-[Deployed Application]()
+[Deployed Application](https://travel-budget-tracker.herokuapp.com/)
 
-<img src="" alt="screenshot of application"/>
+<img src="https://raw.githubusercontent.com/achampigny4/budget-tracker/main/public/assets/screenshot.png" alt="screenshot of application"/>
 
 ## User Story
 
@@ -34,12 +34,13 @@ SO THAT my account balance is accurate when I am traveling
 
 ## Technologies
 
-Mongo DB, Heroku
+Mongo DB, Heroku, Dotenv, Express, Mongoose
 
 ## Resources
 
-[]()
-[]()
+[DEV](https://dev.to/lawrence_eagles/causes-of-heroku-h10-app-crashed-error-and-how-to-solve-them-3jnl), 
+[medium](https://medium.com/make-school/how-to-deploy-your-node-js-mongodb-app-to-the-web-using-heroku-63d4bccf2675), 
+[mongo docs](https://docs.atlas.mongodb.com/setup-cluster-security/#add-ip-addresses-to-the-whitelist), UNH coding bootcamp class activities
 
 ## Acceptance Criteria
 GIVEN a user is on Budget App without an internet connection
